@@ -15,7 +15,8 @@
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://yourdomain.com/headeraddin/home.html"/>
+    <SourceLocation DefaultValue="https://bamklaus.github.io/klaus-header-addin/home.html
+"/>
   </DefaultSettings>
 
   <LaunchEvents>
